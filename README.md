@@ -8,4 +8,4 @@ Idea inspired by Paul Young, K1XM who created the OTRSP protocol.
 
 * Blog posts can be found at <http://www.m1dst.co.uk/category/projects/so2r/>
 * Article by Paul Young - <http://www.ncjweb.com/julaug10feat.pdf>
-* What is OTRSP - <http://www.k1xm.org/OTRSP/index.html>
+* What is OTRSP - <http://www.k1xm.org/OTRSP/index.html># SO2R vek switch
